@@ -3,9 +3,9 @@ Hi 👋 My name is David Holbrook
 Front End Developer 
 -------------------  
 A customer-centric business-focused web developer.
-* 🌍  I'm based in Minneapolis, MN *
-* 🖥️  See my portfolio at [https://davidholbrook.info/work](http://davidholbrook.info) *
-* ✉️  You can contact me at david (at) davidholbrook.info *
+* 🌍  I'm based in Minneapolis, MN
+* 🖥️  See my portfolio at [https://davidholbrook.info/work](http://davidholbrook.info)
+* ✉️  You can contact me at david (at) davidholbrook.info
 
 ### Skills  
 
