@@ -6,7 +6,6 @@ Front End Developer
 A customer-centric business-focused web developer.
 * 🌍  I'm based in Minneapolis, MN 
 * 🖥️  See my website at [https://davidholbrook.info](http://davidholbrook.info) 
-* ✉️  You can contact me at david (at) davidholbrook.info
 
 ### Skills  
 
